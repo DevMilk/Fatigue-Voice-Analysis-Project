@@ -45,9 +45,9 @@ VGG16, VGG19, MobileNet, MobileNetV2, DenseNet201*** and
 
 
 **M**EL type spectrogram images were the highest success among all folders, with
-%94.77 in test results on word folders that scored as 1 or 10. In addition, the
+**%94.77** in test results on word folders that scored as 1 or 10. In addition, the
 highest fold score achieved was obtained with MEL-type
-spectrogram images with %100 .
+spectrogram images with **%100** .
 
 ---
 
@@ -55,11 +55,11 @@ spectrogram images with %100 .
 ![alttext](Docs/12_910.png)
 
  
-**B**ARK type spectrogram images with %84.17 in the test results on word
+**B**ARK type spectrogram images with **%84.17** in the test results on word
 folders achieved the highest success among all folders that scored as 1, 2, 9 or 10, as
 shown in the figures. In addition, the highest fold score
 achieved was obtained with BARK type spectrogram images
-with %93.84 .
+with **%93.84** .
 
 ---
 
@@ -68,8 +68,8 @@ with %93.84 .
 
 
 **M**EL type spectrogram images were the highest success among all folders that scored as 1, 2, 3, 8, 9 or 10 with
-%80.63 in test results on word folders. In addition, the
+**%80.63** in test results on word folders. In addition, the
 highest fold score achieved was obtained using LOG type
-spectrogram images with %84.37 .
+spectrogram images with **%84.37** .
 
 All detailed informations are on Article and Report...
